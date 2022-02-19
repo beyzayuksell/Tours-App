@@ -2,8 +2,13 @@
 
 ## Images for App
 
-https://github.com/beyzayuksell/Tours-App/blob/main/images-app/1.JPG
-https://github.com/beyzayuksell/Tours-App/blob/main/images-app/2.JPG
+### Image I
+
+![](https://github.com/beyzayuksell/Tours-App/blob/main/images-app/1.JPG)
+
+### Image II
+
+![](https://github.com/beyzayuksell/Tours-App/blob/main/images-app/2.JPG)
 
 ## Available Scripts
 
