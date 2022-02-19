@@ -9,7 +9,7 @@ function App() {
   const [show, setShow] = useState(true);
   //  const [tours, setTours] = useState([]);
 
-  useEffect(() => {});
+  // useEffect(() => {});
 
   if (show === true) {
     return (
@@ -17,7 +17,7 @@ function App() {
         <main>
           <Alert variant="success">
             <Alert.Heading>Hey, nice to see you</Alert.Heading>
-            <p>Please click for Home Page</p>
+            <p>Please click button for Home Page</p>
             <hr />
             <p className="mb-0">
               <Button variant="success" onClick={() => setShow(false)}>
